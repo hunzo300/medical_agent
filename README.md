@@ -1,6 +1,3 @@
-# medical_agent
-
-````markdown
 # Medical Multi-Agent Pipeline for IVDM Multi-Phase Segmentation
 
 > ⚠️ **연구·교육용 데모 코드입니다.**  
@@ -280,9 +277,3 @@ def run_ivdm_agent_pipeline_in_notebook(file_prefix: str, data_root: str = DEFAU
 
 ---
 
-```
-
-원하는 느낌/톤(예: 더 포멀하게, 한국어 100%, 영어 100%, bilingual 등)으로 다시 다듬고 싶으면 말해줘.  
-특정 agent 하나만 따로 상세 설명 섹션 추가하는 것도 가능해!
-::contentReference[oaicite:0]{index=0}
-```
